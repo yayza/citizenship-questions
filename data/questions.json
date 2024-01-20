@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "American Government",
+      "sections": [
+        {
+          "id": 1,
+          "name": "Principles of American Government",
+          "questions": [
+            {
+              "question": "What is the form of government of the United States?",
+              "answer": "Republic",
+              "translations": {
+                "arabic": { "question": "", "answer": "" }
+              }
+            },
+            {
+              "question": "What is the supreme law of the land?",
+              "answer": "The Constitution",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو القانون الأعلى للأرض الأمريكية؟",
+                  "answer": "الدستور"
+                }
+              }
+            },
+            {
+              "question": "Name one thing the U.S. Constitution does.",
+              "answer": "Protects the rights of the people",
+              "translations": {
+                "arabic": {
+                  "question": "اذكر شيئًا واحدًا يفعله دستور الولايات المتحدة.",
+                  "answer": "يحمي حقوق الناس"
+                }
+              }
+            },
+            {
+              "question": "The U.S. Constitution starts with the words \"We the People.” What does \"We the People\" mean?",
+              "answer": "People should govern themselves",
+              "translations": {
+                "arabic": {
+                  "question": "يبدأ دستور الولايات المتحدة بعبارة \"نحن الشعب\". ماذا تعني عبارة \"نحن الشعب\"؟",
+                  "answer": "يجب على الناس أن يحكموا أنفسهم"
+                }
+              }
+            },
+            {
+              "question": "How are changes made to the U.S. Constitution?",
+              "answer": "Amendments",
+              "translations": {
+                "arabic": {
+                  "question": "كيف يتم إجراء التغييرات على دستور الولايات المتحدة؟",
+                  "answer": "تعديلات"
+                }
+              }
+            },
+            {
+              "question": "What does the Bill of Rights protect?",
+              "answer": "(The basic) rights of Americans",
+              "translations": {
+                "arabic": {
+                  "question": "ماذا تحمي وثيقة الحقوق؟",
+                  "answer": "(الحقوق الأساسية) للأمريكيين"
+                }
+              }
+            },
+            {
+              "question": "How many amendments does the U.S. Constitution have?",
+              "answer": "Twenty-seven (27)",
+              "translations": {
+                "arabic": {
+                  "question": "كم عدد التعديلات التي يحتوي عليها دستور الولايات المتحدة؟",
+                  "answer": "سبعة وعشرون (27)"
+                }
+              }
+            },
+            {
+              "question": "Why is the Declaration of Independence important?",
+              "answer": "It says all people are created equal.",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي أهمية إعلان الاستقلال؟",
+                  "answer": "تقول أن كل الناس خلقوا متساوين."
+                }
+              }
+            },
+            {
+              "question": "What founding document said the American colonies were free from Britain?",
+              "answer": "Declaration of Independence",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي الوثيقة التأسيسية التي قالت إن المستعمرات الأمريكية كانت خالية من بريطانيا؟",
+                  "answer": "اعلان الاستقلال"
+                }
+              }
+            },
+            {
+              "question": "Name two important ideas from the Declaration of Independence and the U.S. Constitution.",
+              "answer": "Equality and Liberty",
+              "translations": {
+                "arabic": {
+                  "question": "قم بتسمية فكرتين مهمتين من إعلان الاستقلال ودستور الولايات المتحدة.",
+                  "answer": "المساواة والحرية"
+                }
+              }
+            },
+            {
+              "question": "The words \"Life, Liberty, and the pursuit of Happiness\" are in what founding document?",
+              "answer": "Declaration of Independence",
+              "translations": {
+                "arabic": {
+                  "question": "أي وثيقة تأسيس هي عبارة \"الحياة والحرية والسعي وراء السعادة\"؟",
+                  "answer": "اعلان الاستقلال"
+                }
+              }
+            },
+            {
+              "question": "What is the economic system of the United States?",
+              "answer": "Free market economy",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو النظام الاقتصادي للولايات المتحدة؟",
+                  "answer": "اقتصاد السوق الحر"
+                }
+              }
+            },
+            {
+              "question": "What is the rule of law?",
+              "answer": "No one is above the law.",
+              "translations": {
+                "arabic": { "question": "ما هو حكم القانون؟", "answer": "لا احد فوق القانون." }
+              }
+            },
+            {
+              "question": "Many documents influenced the U.S. Constitution. Name one.",
+              "answer": "Declaration of Independence",
+              "translations": {
+                "arabic": {
+                  "question": "أثرت العديد من الوثائق على دستور الولايات المتحدة. اسم واحد.",
+                  "answer": "اعلان الاستقلال"
+                }
+              }
+            },
+            {
+              "question": "There are three branches of government. Why?",
+              "answer": "So one part does not become too powerful",
+              "translations": {
+                "arabic": {
+                  "question": "هناك ثلاثة فروع للحكومة. لماذا ا؟",
+                  "answer": "لذلك جزء واحد لا يصبح قويا جدا"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "System of Government",
+          "questions": [
+            {
+              "question": "Name the three branches of government.",
+              "answer": "Congress, president, and the courts",
+              "translations": {
+                "arabic": {
+                  "question": "قم بتسمية الفروع الثلاثة للحكومة.",
+                  "answer": "الكونغرس والرئيس والمحاكم"
+                }
+              }
+            },
+            {
+              "question": "The President of the United States is in charge of which branch of government?",
+              "answer": "Executive branch",
+              "translations": {
+                "arabic": {
+                  "question": "رئيس الولايات المتحدة هو المسؤول عن أي فرع من فروع الحكومة؟",
+                  "answer": "السلطة التنفيذية"
+                }
+              }
+            },
+            {
+              "question": "What part of the federal government writes laws?",
+              "answer": "U.S. Congress",
+              "translations": {
+                "arabic": {
+                  "question": "أي جزء من الحكومة الفيدرالية يكتب القوانين؟",
+                  "answer": "الكونجرس الأمريكي"
+                }
+              }
+            },
+            {
+              "question": "What are the two parts of the U.S. Congress?",
+              "answer": "Senate and House",
+              "translations": {
+                "arabic": {
+                  "question": "ما هما جزأا الكونجرس الأمريكي؟",
+                  "answer": "مجلس الشيوخ والبيت"
+                }
+              }
+            },
+            {
+              "question": "Name one power of the U.S. Congress.",
+              "answer": "Writes laws",
+              "translations": {
+                "arabic": {
+                  "question": "قم بتسمية سلطة واحدة للكونغرس الأمريكي.",
+                  "answer": "يكتب القوانين"
+                }
+              }
+            },
+            {
+              "question": "How many U.S. senators are there?",
+              "answer": "100",
+              "translations": {
+                "arabic": {
+                  "question": "كم عدد أعضاء مجلس الشيوخ الأمريكي هناك؟",
+                  "answer": "مائة"
+                }
+              }
+            },
+            {
+              "question": "How long is a term for a U.S. senator?",
+              "answer": "6 Years",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي مدة ولاية عضو مجلس الشيوخ الأمريكي؟",
+                  "answer": "6 سنوات"
+                }
+              }
+            },
+            {
+              "question": "Who is one of your state’s U.S. senators now?",
+              "answer": "Dianne Feinstein or Alex Padilla",
+              "translations": {
+                "arabic": {
+                  "question": "من هو أحد أعضاء مجلس الشيوخ في ولايتك الآن؟",
+                  "answer": "ديان فينشتاين أو أليكس باديلا"
+                }
+              }
+            },
+            {
+              "question": "How many voting members are in the House of Representatives?",
+              "answer": "435",
+              "translations": {
+                "arabic": {
+                  "question": "كم عدد اعضاء مجلس النواب المصوتين؟",
+                  "answer": "أربعة مائة و خمسة و ثلاثون"
+                }
+              }
+            },
+            {
+              "question": "How long is a term for a member of the House of Representatives?",
+              "answer": "2 Years",
+              "translations": {
+                "arabic": { "question": "ما هي مدة ولاية عضو مجلس النواب؟", "answer": "سنتان" }
+              }
+            },
+            {
+              "question": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+              "answer": "To more closely follow public opinion",
+              "translations": {
+                "arabic": {
+                  "question": "لماذا يخدم ممثلو الولايات المتحدة فترات أقصر من أعضاء مجلس الشيوخ الأمريكي؟",
+                  "answer": "لمتابعة الرأي العام عن كثب"
+                }
+              }
+            },
+            {
+              "question": "How many senators does each state have?",
+              "answer": "2",
+              "translations": {
+                "arabic": { "question": "كم عدد أعضاء مجلس الشيوخ في كل ولاية؟", "answer": "إثنان" }
+              }
+            },
+            {
+              "question": "Why does each state have two senators?",
+              "answer": "Equal representation",
+              "translations": {
+                "arabic": {
+                  "question": "لماذا لكل ولاية عضوان في مجلس الشيوخ؟",
+                  "answer": "التمثيل المتساوي"
+                }
+              }
+            },
+            {
+              "question": "Name your U.S. representative.",
+              "answer": "Kevin McCarthy",
+              "translations": {
+                "arabic": {
+                  "question": "أدخل اسما لممثلك في الولايات المتحدة.",
+                  "answer": "كيفن مكارثي"
+                }
+              }
+            },
+            {
+              "question": " What is the name of the Speaker of the House of Representatives now?",
+              "answer": "Nancy Pelosi",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو اسم رئيس مجلس النواب الان؟",
+                  "answer": "نانسي بيلوسي"
+                }
+              }
+            },
+            {
+              "question": "Who does a U.S. senator represent?",
+              "answer": "Citizens from their state",
+              "translations": {
+                "arabic": { "question": "السنتاور الأمريكي يمثل من؟", "answer": "مواطنو دولتهم" }
+              }
+            },
+            {
+              "question": "Who elects U.S. senators?",
+              "answer": "Citizens from their state",
+              "translations": {
+                "arabic": {
+                  "question": "من ينتخب أعضاء مجلس الشيوخ الأمريكي؟",
+                  "answer": "مواطنو دولتهم"
+                }
+              }
+            },
+            {
+              "question": "Who does a member of the House of Representatives represent?",
+              "answer": "Citizens in their district",
+              "translations": {
+                "arabic": {
+                  "question": "من يمثل عضو مجلس النواب؟",
+                  "answer": "المواطنين في منطقتهم"
+                }
+              }
+            },
+            {
+              "question": "Who elects members of the House of Representatives?",
+              "answer": "Citizens in their district",
+              "translations": {
+                "arabic": {
+                  "question": "من ينتخب أعضاء مجلس النواب؟",
+                  "answer": "المواطنين في منطقتهم"
+                }
+              }
+            },
+            {
+              "question": "Some states have more representatives than other states. Why?",
+              "answer": "Because some states have more people",
+              "translations": {
+                "arabic": {
+                  "question": "بعض الدول لديها ممثلين أكثر من الدول الأخرى. لماذا ا؟",
+                  "answer": "لأن بعض الدول لديها عدد أكبر من الناس"
+                }
+              }
+            },
+            {
+              "question": "The President of the United States is elected for how many years?",
+              "answer": "4 Years",
+              "translations": {
+                "arabic": {
+                  "question": "كم سنة يتم انتخاب رئيس الولايات المتحدة؟",
+                  "answer": "4 سنوات"
+                }
+              }
+            },
+            {
+              "question": "The President of the United States can serve only two terms. Why?",
+              "answer": "To keep the president from becoming too powerful",
+              "translations": {
+                "arabic": {
+                  "question": "يمكن لرئيس الولايات المتحدة أن يخدم فترتين فقط. لماذا؟",
+                  "answer": "لمنع الرئيس من أن يصبح قويا جدا"
+                }
+              }
+            },
+            {
+              "question": "What is the name of the President of the United States now?",
+              "answer": "Joe Biden",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو اسم رئيس الولايات المتحدة الآن؟",
+                  "answer": "جو بايدن"
+                }
+              }
+            },
+            {
+              "question": "What is the name of the Vice President of the United States now?",
+              "answer": "Kamala Harris",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو اسم نائب رئيس الولايات المتحدة الآن؟",
+                  "answer": "كمالا هاريس"
+                }
+              }
+            },
+            {
+              "question": "Name one power of the president.",
+              "answer": "Signs bills into law",
+              "translations": {
+                "arabic": {
+                  "question": "اذكر سلطة واحدة للرئيس.",
+                  "answer": "يوقع مشاريع القوانين في القانون"
+                }
+              }
+            },
+            {
+              "question": "Who is Commander in Chief of the U.S. military?",
+              "answer": "The President",
+              "translations": {
+                "arabic": { "question": "من هو القائد العام للجيش الأمريكي؟", "answer": "الرئيس" }
+              }
+            },
+            {
+              "question": "Who signs bills to become laws?",
+              "answer": "The President",
+              "translations": {
+                "arabic": {
+                  "question": "من يوقع مشاريع القوانين لتصبح قوانين؟",
+                  "answer": "الرئيس"
+                }
+              }
+            },
+            {
+              "question": "Who vetoes bills?",
+              "answer": "The President",
+              "translations": {
+                "arabic": { "question": "من الذي ينقض الفواتير؟", "answer": "الرئيس" }
+              }
+            },
+            {
+              "question": "Who appoints federal judges?",
+              "answer": "The President",
+              "translations": {
+                "arabic": { "question": "من الذي يعين القضاة الفدراليين؟", "answer": "الرئيس" }
+              }
+            },
+            {
+              "question": "The executive branch has many parts. Name one.",
+              "answer": "The President's Cabinet",
+              "translations": {
+                "arabic": {
+                  "question": "السلطة التنفيذية لها أجزاء كثيرة. اسم واحد.",
+                  "answer": "ديوان الرئيس"
+                }
+              }
+            },
+            {
+              "question": "What does the President’s Cabinet do?",
+              "answer": "Advises the President",
+              "translations": {
+                "arabic": { "question": "ماذا تفعل ديوان الرئيس؟", "answer": "يقدم المشورة للرئيس" }
+              }
+            },
+            {
+              "question": "What are two Cabinet-level positions?",
+              "answer": "Secretary of the Treasury and Secretary of Education",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي موقعين مستوى مجلس الوزراء؟",
+                  "answer": "وزير الخزانة ووزير التعليم"
+                }
+              }
+            },
+            {
+              "question": "Why is the Electoral College important?",
+              "answer": "It decides who is elected president",
+              "translations": {
+                "arabic": {
+                  "question": "لماذا تعتبر الهيئة الانتخابية مهمة؟",
+                  "answer": "يقرر من يتم انتخابه رئيسًا"
+                }
+              }
+            },
+            {
+              "question": "What is one part of the judicial branch?",
+              "answer": "Supreme Court",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو جزء من السلطة القضائية؟",
+                  "answer": "المحكمة العليا"
+                }
+              }
+            },
+            {
+              "question": "What does the judicial branch do?",
+              "answer": "Decides if a law goes against the Constitution",
+              "translations": {
+                "arabic": {
+                  "question": "ما يفعل الفرع القضائي؟",
+                  "answer": "يقرر ما إذا كان القانون يتعارض مع الدستور"
+                }
+              }
+            },
+            {
+              "question": "What is the highest court in the United States?",
+              "answer": "Supreme Court",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي أعلى محكمة في الولايات المتحدة؟",
+                  "answer": "المحكمة العليا"
+                }
+              }
+            },
+            {
+              "question": "How many seats are on the Supreme Court?",
+              "answer": "9",
+              "translations": {
+                "arabic": { "question": "كم عدد المقاعد في المحكمة العليا؟", "answer": "تسعة" }
+              }
+            },
+            {
+              "question": "How many Supreme Court justices are usually needed to decide a case?",
+              "answer": "5",
+              "translations": {
+                "arabic": {
+                  "question": "كم عدد قضاة المحكمة العليا اللازمين عادة للبت في القضية؟",
+                  "answer": "خمسة"
+                }
+              }
+            },
+            {
+              "question": "How long do Supreme Court justices serve?",
+              "answer": "For life or until they retire",
+              "translations": {
+                "arabic": {
+                  "question": "ما هي مدة عمل قضاة المحكمة العليا؟",
+                  "answer": "مدى الحياة أو حتى التقاعد"
+                }
+              }
+            },
+            {
+              "question": "Supreme Court justices serve for life. Why?",
+              "answer": "To be independent of politics",
+              "translations": {
+                "arabic": {
+                  "question": "يخدم قضاة المحكمة العليا مدى الحياة. لماذا ا؟",
+                  "answer": "أن يكون مستقلاً عن السياسة"
+                }
+              }
+            },
+            {
+              "question": "Who is the Chief Justice of the United States now?",
+              "answer": "John G. Roberts, Jr.",
+              "translations": {
+                "arabic": {
+                  "question": "من هو رئيس قضاة الولايات المتحدة الآن؟",
+                  "answer": "جون جي روبرتس الابن"
+                }
+              }
+            },
+            {
+              "question": "Name one power that is only for the federal government.",
+              "answer": "Print paper money",
+              "translations": {
+                "arabic": {
+                  "question": "قم بتسمية سلطة واحدة مخصصة للحكومة الفيدرالية فقط.",
+                  "answer": "طباعة النقود الورقية"
+                }
+              }
+            },
+            {
+              "question": "Name one power that is only for the states.",
+              "answer": "Give a driver’s license",
+              "translations": {
+                "arabic": {
+                  "question": "قم بتسمية قوة واحدة مخصصة للولايات فقط.",
+                  "answer": "امنح رخصة قيادة"
+                }
+              }
+            },
+            {
+              "question": "What is the purpose of the 10th Amendment?",
+              "answer": "It says that powers not given to the federal government belong to the states or to the people",
+              "translations": {
+                "arabic": {
+                  "question": "ما هو الغرض من التعديل العاشر؟",
+                  "answer": "تقول أن الصلاحيات غير الممنوحة للحكومة الفيدرالية تعود إلى الولايات أو للشعب"
+                }
+              }
+            },
+            {
+              "question": "Who is the governor of your state now?",
+              "answer": "Gavin Newsom",
+              "translations": {
+                "arabic": { "question": "من هو والي ولايتك الان؟", "answer": "جافين نيوسوم" }
+              }
+            },
+            {
+              "question": "What is the capital of your state?",
+              "answer": "Sacramento",
+              "translations": {
+                "arabic": { "question": "ما هي عاصمة ولايتك؟", "answer": "سكرامنتو" }
+              }
+            }
+          ]
+        },
+        { "id": 3, "name": "Rights and Responsibilities", "questions": [] }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "American History",
+      "sections": [
+        {
+          "id": 1,
+          "name": "Colonial Period and Independance",
+          "questions": []
+        },
+        {
+          "id": 2,
+          "name": "1800s",
+          "questions": []
+        },
+        {
+          "id": 3,
+          "name": "Recent American History and other important historical information",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Symbols and Holidays",
+      "sections": [
+        {
+          "id": 1,
+          "name": "Symbols",
+          "questions": []
+        },
+        {
+          "id": 2,
+          "name": "Holidays",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}
